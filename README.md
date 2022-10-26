@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
 ### I'm **JoneQin**, This is my README
-
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoneQin&theme=buefy&show_icons=true">](https://github.com/JoneQin)
 
 ## 🚀 Language And Tools
 
@@ -20,7 +20,7 @@
 
 ## Form
 <!-- minimal -->
-[![JoneQin's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoneQin&theme=minimal)](https://github.com/JoneQin)
+[![JoneQin's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoneQin)](https://github.com/JoneQin)
 
 <div align="center" style="margin-top:20px">
 	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
