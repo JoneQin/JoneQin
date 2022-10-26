@@ -1,17 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
-### I'm **Dong Yuanwai**, a frontend developer from China.
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dongyuanwai&theme=buefy&show_icons=true">](https://metrics.lecoq.io/about/dongyuanwai)
-
--   🌏 I come from China(俺是一个中国人)
--   🛠  I’m currently working use Vue, JavaScript
--   💬 Ask me about anything related Program
--   🌱 I’m currently learning JS and English
--   🔭 Doing something about open source
--   📝 I regulary write articles on my blog
--   🚌 I like take the bus to browse the city scenery
--   📫 relation me yuanwaidong@163.com
--   💬 WeChat Official Accounts：oldCode
+### I'm **JoneQin**, This is my README
 
 
 ## 🚀 Language And Tools
@@ -31,7 +20,7 @@
 
 ## Form
 <!-- minimal -->
-[![Dong Yuanwai's github activity graph](https://activity-graph.herokuapp.com/graph?username=dongyuanwai&theme=minimal)](https://github.com/dongyuanwai)
+[![JoneQin's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoneQin&theme=minimal)](https://github.com/JoneQin)
 
 <div align="center" style="margin-top:20px">
 	<img align="center" src="./images/github-contribution-grid-snake.svg"></img>
