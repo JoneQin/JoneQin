@@ -19,7 +19,7 @@
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoneQin&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneQin&layout=compact&theme=tokyonight" />
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneQin&layout=compact&theme=tokyonight" /> -->
 </div>
 
 ## Form
