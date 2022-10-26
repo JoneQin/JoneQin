@@ -3,6 +3,8 @@
 ### I'm **JoneQin**, This is my README
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoneQin&theme=buefy&show_icons=true">](https://github.com/JoneQin)
 
+- 🌟 Try to be better
+
 ## 🚀 Language And Tools
 
 <div align="center" >
