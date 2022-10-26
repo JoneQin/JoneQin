@@ -1,23 +1,25 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">Hey! here
 
 ### I'm **JoneQin**, This is my README
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=JoneQin&theme=buefy&show_icons=true">](https://github.com/JoneQin)
 
 - 🌟 Try to be better
 
-## 🚀 Language And Tools
+## 🛠 &nbsp;Tech Stack
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>&nbsp;
+<code><img height="20" src="https://vitejs.dev/logo.svg"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<div align="center" >
-	<img src="./images/html.svg" width="40" height="40" alt="html" />
-	<img src="./images/css.svg" width="40" height="40" alt="css" />
-	<img src="./images/javascript.svg" width="40" height="40" alt="javascript" />
-	<img src="./images/typescript.svg" width="40" height="40" alt="typescript" />
-	<img src="./images/vuejs.svg" width="40" height="40" alt="vue" />
-	<img src="./images/nodejs.svg" width="40" height="40" alt="node" />
-	<img src="./images/sass.svg" width="40" height="40" alt="sass" />
-	<img src="./images/webpack.svg" width="40" height="40" alt="webpack" />
-	<img src="./images/stack-overflow.svg" width="40" height="40" alt="stack-overflow" />
-	<img src="./images/postman.svg" width="40" height="40" alt="postman" />
+## 🌈 &nbsp;My Stats
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoneQin&show_icons=true&theme=tokyonight" alt="Chris' GitHub Stats"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoneQin&layout=compact&theme=tokyonight" />
 </div>
 
 ## Form
